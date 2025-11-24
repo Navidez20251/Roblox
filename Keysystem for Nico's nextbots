@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/Navidez20251/Roblox/refs/heads/main/Nico's%20nextbots")))()
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/0013f65fbf1c35b1ba70ee9ed531505116e783e8b0dfcace81960974fbe0d268/download"))()
